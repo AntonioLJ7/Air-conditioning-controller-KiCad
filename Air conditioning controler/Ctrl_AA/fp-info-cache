@@ -1,0 +1,169 @@
+39610904159939
+Fiducial
+Fiducial_0.5mm_Mask1.5mm
+Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
+fiducial
+0
+1
+0
+Fiducial
+Fiducial_0.5mm_Mask1mm
+Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)
+fiducial
+0
+1
+0
+Fiducial
+Fiducial_0.75mm_Mask1.5mm
+Circular Fiducial, 0.75mm bare copper, 1.5mm soldermask opening (Level B)
+fiducial
+0
+1
+0
+Fiducial
+Fiducial_0.75mm_Mask2.25mm
+Circular Fiducial, 0.75mm bare copper, 2.25mm soldermask opening
+fiducial
+0
+1
+0
+Fiducial
+Fiducial_1.5mm_Mask3mm
+Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
+fiducial
+0
+1
+0
+Fiducial
+Fiducial_1.5mm_Mask4.5mm
+Circular Fiducial, 1.5mm bare copper, 4.5mm soldermask opening
+fiducial
+0
+1
+0
+Fiducial
+Fiducial_1mm_Mask2mm
+Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
+fiducial
+0
+1
+0
+Fiducial
+Fiducial_1mm_Mask3mm
+Circular Fiducial, 1mm bare copper, 3mm soldermask opening (recommended)
+fiducial
+0
+1
+0
+Libreria_Huellas_Ctrl_AA
+CP_Elec_5x5.3
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm
+capacitor electrolytic
+0
+2
+2
+Libreria_Huellas_Ctrl_AA
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Libreria_Huellas_Ctrl_AA
+Crystal_SMD_MicroCrystal_MS3V-T1R
+SMD Watch Crystal MicroCrystal MS3V-T1R 5.2mm length 1.4mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS3V-T1R.pdf
+['MS3V-T1R']
+0
+3
+3
+Libreria_Huellas_Ctrl_AA
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+Libreria_Huellas_Ctrl_AA
+Fiducial_1mm_Mask3mm
+Circular Fiducial, 1mm bare copper, 3mm soldermask opening (recommended)
+fiducial
+0
+1
+0
+Libreria_Huellas_Ctrl_AA
+IDC-Header_2x07_P2.54mm_Vertical
+Through hole IDC box header, 2x07, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
+Through hole vertical IDC box header THT 2x07 2.54mm double row
+0
+14
+14
+Libreria_Huellas_Ctrl_AA
+LCD_91_40898_110A0
+
+
+0
+14
+14
+Libreria_Huellas_Ctrl_AA
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+Libreria_Huellas_Ctrl_AA
+LQFP-64-1EP_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+Libreria_Huellas_Ctrl_AA
+LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+90
+65
+Libreria_Huellas_Ctrl_AA
+Molex_PicoBlade_53261-0671_1x06-1MP_P1.25mm_Horizontal
+Molex PicoBlade series connector, 53261-0671 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+8
+7
+Libreria_Huellas_Ctrl_AA
+R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Libreria_Huellas_Ctrl_AA
+R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical
+Resistor, Axial_DIN0309 series, Axial, Vertical, pin pitch=2.54mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0309 series Axial Vertical pin pitch 2.54mm 0.5W = 1/2W length 9mm diameter 3.2mm
+0
+2
+2
+Libreria_Huellas_Ctrl_AA
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+Libreria_Huellas_Ctrl_AA
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+Libreria_Huellas_Ctrl_AA
+SolderWirePad_5x10mm_2mmDrill
+Soldered wire connection, for a single 0.1 mm² wire, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.1sqmm
+0
+1
+1
